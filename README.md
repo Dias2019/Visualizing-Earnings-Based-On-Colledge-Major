@@ -4,5 +4,5 @@ The original data on job outcomes was released by American Community Survey, whi
 By using data visualization techniques, we can start to explore questions from the dataset like:
 1. Do students in more popular majors make more money?
 2. How many majors are predominantly male? Predominantly female?
-3. Which category of majors have the most students?
+3. Which category of majors have the most students?<br/>
 and many more...
